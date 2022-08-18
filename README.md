@@ -4,6 +4,7 @@ Atividades desenvolvidas na disciplina de Computação Gráfica na FURB/DSC/BCC.
 Favor utilizar as respectivas pastas para postar os trabalhos de cada unidade.  
 
 Alunos:  
+
 - Computação: Christyelen Kramel, Luis Augusto Kühn, Thomas Ricardo Reinke e Yuri Matheus Hartmann  
 - Pedagogia: Aléxia Raissa Claudino Schumann, Marineusa Uller e Nicole Isabelle Morais Toureiro  
 
