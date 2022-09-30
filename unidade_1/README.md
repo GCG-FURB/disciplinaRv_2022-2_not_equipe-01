@@ -2,28 +2,16 @@
 
 Local para postar a atividade da unidade 1.  
 
-## Avaliação
+## RVi. 
 
-### Trabalho Correlato 1
+### Within  
+Pessoas que reclamam de desconforto  
 
-Descrição:  
+### VR Heights Phobia  
+TCC Fobia  
+Anda sem sair do lugar  
+Tem um Asset que faz a parte do andar  
 
-Pontos positivos:  
-
-Pontos negativos:  
-
-### Trabalho Correlato 2
-
-Descrição:  
-
-Pontos positivos:  
-
-Pontos negativos:  
-
-### Trabalho Correlato 3
-
-Descrição:  
-
-Pontos positivos:  
-
-Pontos negativos:  
+### Beat Saber  
+Quais equipamentos foi usado  
+Jogo que iniciou a uso  
