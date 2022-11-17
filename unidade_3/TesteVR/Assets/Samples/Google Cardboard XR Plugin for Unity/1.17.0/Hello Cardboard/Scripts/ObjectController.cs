@@ -72,8 +72,7 @@ public class ObjectController : MonoBehaviour
         float angle = Random.Range(-Mathf.PI, Mathf.PI);
         float distance = Random.Range(_minObjectDistance, _maxObjectDistance);
         float height = Random.Range(_minObjectHeight, _maxObjectHeight);
-        Vector3 newPos = new Vector3(Mathf.Cos(angle) * distance, height,
-                                     Mathf.Sin(angle) * distance);
+        Vector3 newPos = new Vector3(0f, 3f, 0f);
 
         // Moves the parent to the new position (siblings relative distance from their parent is 0).
         transform.parent.localPosition = newPos;

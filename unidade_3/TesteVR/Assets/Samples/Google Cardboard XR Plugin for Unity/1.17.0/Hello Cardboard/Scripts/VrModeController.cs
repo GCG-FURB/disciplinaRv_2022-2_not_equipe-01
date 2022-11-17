@@ -93,11 +93,6 @@ public class VrModeController : MonoBehaviour
                 ExitVR();
             }
 
-            if (Api.IsGearButtonPressed)
-            {
-                Api.ScanDeviceParams();
-            }
-
             Api.UpdateScreenParams();
         }
         else
